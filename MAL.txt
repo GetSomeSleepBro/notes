@@ -1,3 +1,26 @@
+
+
+[ BLOGS ]
+Malwarebytes	Blogs			: https://www.malwarebytes.com/blog
+CPR					: https://research.checkpoint.com/
+
+[ DATABASE ]
+MS THREATS DB				: https://www.microsoft.com/en-us/wdsi/threats
+
+[ PAPERS ]
+INEXSMAR (DARKHOTEL)		        : https://www.bitdefender.ro/files/News/CaseStudies/study/161/Bitdefender-Whitepaper-Inexsmar-A4-en-EN.pdf
+
+[ TOOLS ]
+HASHTAB 				: https://implbits.com/hashtab
+
+[ ARTICLES ]
+FILE SIGNATURE				: https://www.garykessler.net/library/file_sigs.html
+THM ROOMS LIST				: https://happycamper84.medium.com/thm-walkthrough-list-ad-stuff-95280f400bec
+
+
+=========================================================================================================================================================
+
+[ TOOLS LIST ]
 THM room 	: https://tryhackme.com/r/room/malmalintroductory
 
 C:.
